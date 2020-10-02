@@ -12,7 +12,7 @@ namespace MainApplication.Xplat
             var a = new List<int>();
             if (a.Count == 0)
             {
-
+                Console.WriteLine("dddd");
             }
         }
     }
